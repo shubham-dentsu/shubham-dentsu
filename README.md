@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham-dentsu
+- 👋 Hi, I’m Shubham Joshi
 - 👀 I’m Tech Lead
 - 🌱 I’m currently learning Docker, Kubernetes
 - 📫 How to reach me, 
